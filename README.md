@@ -1,4 +1,5 @@
-###  Olá! eu sou Jhone Do Vale 
+###  Olá! eu sou Jhone Do Vale, Tendo Curso Tecnico em Informatica pela EEEP Venceslau Vieira Batista(2022) Fazendo Tecnólogo em Analise e Desenvolvimento de Sistemas na , 
+###  Hi! My name is Jhone Do Vale 
 
 
 <div>

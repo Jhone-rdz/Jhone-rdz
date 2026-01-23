@@ -1,4 +1,4 @@
-###  Estudante de TI com foco em desenvolvimento backend. Atualmente estudando Java/Python e seus frameworks como: Spring boot, Django, Flask e FastApi. Tenho conhecimentos de Git e GitHub, SQL com PostgresSQL, APIs REST. Busco estágio para aplicar conceitos e evoluir em ambientes reais.
+###  Estudante de TI com foco em desenvolvimento backend. Atualmente estudando Java/Python e seus frameworks como: Spring boot, Django, Flask. Tenho conhecimentos de Git e GitHub, SQL com PostgresSQL, APIs REST. Busco estágio para aplicar conceitos e evoluir em ambientes reais.
 
 
 <div>

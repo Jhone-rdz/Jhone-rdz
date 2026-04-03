@@ -4,7 +4,7 @@
 **Estudante de TI · Backend Developer · IFCE Campus Boa Viagem**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jhone--rdz-181717?style=flat&logo=github)](https://github.com/Jhone-rdz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jhone-r-6b77b226a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhone--R-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jhone-r-6b77b226a/)
 
 </div>
 

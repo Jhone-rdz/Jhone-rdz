@@ -1,43 +1,77 @@
-<div align="center">
+# 👨🏻‍💻 Jhone Rodrigues
 
-## Jhone
-**Estudante de TI · Backend Developer · IFCE Campus Boa Viagem**
+**`Desenvolvedor Backend`**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jhone--rdz-181717?style=flat&logo=github)](https://github.com/Jhone-rdz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhone--R-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jhone-r-6b77b226a/)
+Me chamo Jhone Rodrigues, sou estudante de TI no IFCE Campus Boa Viagem com foco em desenvolvimento backend. Trabalho com Java e Python usando frameworks como Spring Boot, Django e Flask. Tenho experiência com Git, PostgreSQL e APIs REST, e busco um estágio para aplicar esses conhecimentos e evoluir em ambientes reais de desenvolvimento.
 
-</div>
-
----
-
-### Sobre
-
-Estudante de TI com foco em **desenvolvimento backend**. Trabalho com Java e Python usando frameworks como Spring Boot e Django. Busco estágio para aplicar conceitos e crescer em ambientes reais.
-
----
-
-### Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-</div>
-
----
-
-### Foco atual
-
-`APIs REST` · `Django REST Framework` · `Spring Boot` · `PostgreSQL` · `JWT Auth` · `Git / GitHub`
+<p align="left">
+  <a href="https://github.com/Jhone-rdz?tab=repositories&sort=stargazers">
+    <img
+      alt="Total de estrelas"
+      title="Total de estrelas GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/Jhone-rdz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/Jhone-rdz?tab=followers">
+    <img
+      alt="Seguidores"
+      title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/Jhone-rdz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/jhone-r-6b77b226a/">
+    <img
+      alt="LinkedIn"
+      title="Me encontre no LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
 ---
 
-### Em busca de
+### 🤖 Linguagens e Tecnologias
 
-Estágio em **desenvolvimento backend** — aberto a empresas que usem Java, Python ou qualquer stack moderna.
-Disponível para remoto ou presencial no Ceará.
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Jhone-rdz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    align="left"
+    alt="Linguagens mais usadas"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhone-rdz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>

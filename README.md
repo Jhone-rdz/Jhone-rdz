@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Jhone Rodrigues
+# 👨🏻‍💻 Jhone
 
 **`Desenvolvedor Backend`**
 
-Me chamo Jhone Rodrigues, sou estudante de TI no IFCE Campus Boa Viagem com foco em desenvolvimento backend. Trabalho com Java e Python usando frameworks como Spring Boot, Django e Flask. Tenho experiência com Git, PostgreSQL e APIs REST, e busco um estágio para aplicar esses conhecimentos e evoluir em ambientes reais de desenvolvimento.
+Me chamo Jhone, sou estudante de TI no IFCE Campus Boa Viagem com foco em desenvolvimento backend. Trabalho com Java e Python usando frameworks como Spring Boot, Django. Tenho experiência com Git, PostgreSQL, Docker, TypeScript, Linux, Postman e APIs REST, e busco um estágio para aplicar esses conhecimentos e evoluir em ambientes reais de desenvolvimento.
 
 <p align="left">
   <a href="https://github.com/Jhone-rdz?tab=repositories&sort=stargazers">
@@ -40,8 +40,6 @@ Me chamo Jhone Rodrigues, sou estudante de TI no IFCE Campus Boa Viagem com foco
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
@@ -52,6 +50,14 @@ Me chamo Jhone Rodrigues, sou estudante de TI no IFCE Campus Boa Viagem com foco
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 
 <br/>
 <br/>
@@ -61,6 +67,6 @@ Me chamo Jhone Rodrigues, sou estudante de TI no IFCE Campus Boa Viagem com foco
 ### 📊 Estatisticas
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhone-rdz&show_icons=true&theme=vision_friendly_dark&include_all_commits=true&count_private=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhone-rdz&layout=compact&theme=vision_friendly_dark&hide_border=true" height="170" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhone-rdz&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhone-rdz&layout=compact&theme=nord&hide_border=true" height="170" alt="Languages" />
 </p>

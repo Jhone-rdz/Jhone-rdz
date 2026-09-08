@@ -73,7 +73,6 @@ Sou desenvolvedor backend com foco em construir sistemas web robustos e escaláv
 * **Foco em Aprendizado Contínuo:** Sempre buscando entender a fundo cada tecnologia antes de aplicá-la.
 * **Pragmatismo Técnico:** Entregar soluções backend estáveis e funcionais para problemas reais, inclusive de contexto local/regional no Ceará.
 * **Organização:** Estruturação de projetos acadêmicos e pessoais com documentação clara (requisitos, DER, apresentações).
-* **Busca por Estágio:** Em busca ativa de uma oportunidade de estágio para aplicar e evoluir esses conhecimentos em ambientes reais de desenvolvimento.
 
 ---
 
